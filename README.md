@@ -1,2 +1,3 @@
 # Significance of Home Advantage in European Football
-Data Science project using Python exploring the home advantage in European football.
+
+This data analytics project looks at scorelines of matches in the top 5 European leagues (England, Germany, Spain, Italy and France) between the years 1995 and 2019 to undertand and analyse the significance of the home advantage. The dataset is obtained from kaggle and is uploaded by the user '_Hicham IKNE_' (link in the .ipynb file). The parameters analyzed were away goals scored per game compared to home goals, and away win percentages. The analysis suggests that although there's a significant home advantage, the margin is decreasing and is at its lowest right now. This is in correlation with existing research that suggest the same. 
